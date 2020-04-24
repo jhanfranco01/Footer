@@ -1,0 +1,34 @@
+{
+  "datitos": [
+    {
+      "id": "1",
+      "PrimerNombre": "Cristoper",
+      "Nombre2": "Jhanfranco",
+      "Profesion": "Frontend",
+      "Twiter": "rv_cristoper",
+      "avatarUrl": "https://es.gravatar.com/userimage/184544648/2b3693f253b9ecd0b19825eaeb413e66.jpg",
+      "Usuario": "cristoper",
+      "Contra": "123456"
+    },
+    {
+      "id": "2",
+      "PrimerNombre": "Jhom",
+      "Nombre2": "Carlos",
+      "Profesion": "Ing Empresarial de Sistemas",
+      "Twiter": "Jh_Aldahes",
+      "avatarUrl": "https://www.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a?d=identicon",
+      "Usuario": "jhon",
+      "Contra": "123456"
+    },
+    {
+      "id": "3",
+      "PrimerNombre": "Sandy",
+      "Nombre2": "Sofia",
+      "Profesion": "Quimica Farmaceutica",
+      "Twiter": "SdDofia21",
+      "avatarUrl": "https://www.gravatar.com/avatar/e74e87d40e55b9ff9791c78892e55cb7?d=identicon",
+      "Usuario": "sandy",
+      "Contra": "123456"
+    }
+  ]
+}
